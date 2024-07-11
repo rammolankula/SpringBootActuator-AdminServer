@@ -1,6 +1,8 @@
 
 Spring Boot Actuator & Admin Server
 ==================================
+![Adminserver-#1](https://github.com/rammolankula/SpringBootActuator-AdminServer/assets/53596726/4336a261-2068-4f7b-ab02-840e8fd5ff60)
+
 <pre>
 *)Actuator :Production Ready Endpoints in simple they are ready made services which are used
             at production server manily
@@ -112,3 +114,8 @@ Sep: Spring boot admin server
 7.Enter URL :http://localhost:9191/
 8.click on application name
  </pre>
+
+
+![Adminserver](https://github.com/rammolankula/SpringBootActuator-AdminServer/assets/53596726/9c41a369-b217-4b19-97b0-77fc00994ea3)
+![AdminServer-HeadDump Thread](https://github.com/rammolankula/SpringBootActuator-AdminServer/assets/53596726/8da5a87e-b634-4f83-b394-18a8477246a3)
+
